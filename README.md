@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi there 👋! My name is Sara Mejía and I'm a Applied Programming Specialist.</h2>
+<h1 align="center">Hi 👋, I'm Sara Mejía</h1>
+<h3 align="center">I'm a Applied Programming Specialist</h3>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarismejiasanchez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -24,23 +24,21 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sarismejiasanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarismejiasanch" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarismejiasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarismejiasanchez" height="30" width="40" /></a>
+<a href="https://kaggle.com/sarismejiasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarismejiasanchez" height="30" width="40" /></a>
+<a href="https://discord.gg/sarismejiasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sarismejiasanchez" height="30" width="40" /></a>
+</p>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sarismejiasanchez/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.x.com/sarismejiasanch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/sarismejiasanchez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymDRzp6hB8Gbt9F9lrrEtrkwnFaqNcZ8olBtEJEKqghQDiK6qf5o5Bo3RHdknS0EpLuOeAMj98lzANRcu65-Ej8k04Ic2jmpKw-K38SFoLm6hrseg_Wxy3Q55tDp9DJQqmK0CmEIr2oI/w640-h354/Oracle-plSql.jpg" alt="plsql" width="40" height="40"/> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Learning... 🤓</h3>
 
@@ -55,3 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+
+
+

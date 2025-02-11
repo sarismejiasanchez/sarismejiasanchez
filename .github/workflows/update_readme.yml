@@ -11,8 +11,8 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v4.2.2
       
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

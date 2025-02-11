@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Applied Programming Specialist</h3>
 
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarismejiasanchez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -36,8 +37,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymDRzp6hB8Gbt9F9lrrEtrkwnFaqNcZ8olBtEJEKqghQDiK6qf5o5Bo3RHdknS0EpLuOeAMj98lzANRcu65-Ej8k04Ic2jmpKw-K38SFoLm6hrseg_Wxy3Q55tDp9DJQqmK0CmEIr2oI/w640-h354/Oracle-plSql.jpg" alt="plsql" width="40" height="40"/> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymDRzp6hB8Gbt9F9lrrEtrkwnFaqNcZ8olBtEJEKqghQDiK6qf5o5Bo3RHdknS0EpLuOeAMj98lzANRcu65-Ej8k04Ic2jmpKw-K38SFoLm6hrseg_Wxy3Q55tDp9DJQqmK0CmEIr2oI/w640-h354/Oracle-plSql.jpg" alt="plsql" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Learning... 🤓</h3>
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 
 ###
 
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
 
-
-
+<!--RECENT_ACTIVITY:end-->

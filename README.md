@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-2. 🎉 Merged PR [#7](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/7) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
 3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-5. ⭐ Starred [ThisIsSakshi/Books](https://github.com/ThisIsSakshi/Books)<br>
+4. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
+5. ⭐ Starred [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
 <!--RECENT_ACTIVITY:end-->

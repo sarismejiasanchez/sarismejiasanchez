@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+1. ⭐ Starred [github-education-experiences/introduction-to-github](https://github.com/github-education-experiences/introduction-to-github)<br>
 2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
 3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-4. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-5. ⭐ Starred [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
 <!--RECENT_ACTIVITY:end-->

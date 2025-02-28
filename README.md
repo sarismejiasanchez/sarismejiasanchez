@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github-education-experiences/introduction-to-github](https://github.com/github-education-experiences/introduction-to-github)<br>
-2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
+1. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+2. 🎉 Merged PR [#9](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/9) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+3. 💪 Opened PR [#9](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/9) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+4. ✌️ Released [v0.1.0](https://github.com/sarismejiasanchez/FirstPackage/releases/tag/v0.1.0) in [sarismejiasanchez/FirstPackage](https://github.com/sarismejiasanchez/FirstPackage)<br>
+5. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/FirstPackage](https://github.com/sarismejiasanchez/FirstPackage)<br>
 <!--RECENT_ACTIVITY:end-->

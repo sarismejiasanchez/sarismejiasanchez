@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 0 * * *" # Ejecuta el workflow todos los días a la medianoche (UTC)
   workflow_dispatch:
 
 jobs:

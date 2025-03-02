@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-2. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-3. 🎉 Merged PR [#9](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/9) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-4. 💪 Opened PR [#9](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/9) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-5. ✌️ Released [v0.1.0](https://github.com/sarismejiasanchez/FirstPackage/releases/tag/v0.1.0) in [sarismejiasanchez/FirstPackage](https://github.com/sarismejiasanchez/FirstPackage)<br>
+1. ⭐ Starred [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython)<br>
+2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/sarismejiasanchez](https://github.com/sarismejiasanchez/sarismejiasanchez)<br>
+3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+4. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+5. 🎉 Merged PR [#9](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/9) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
 <!--RECENT_ACTIVITY:end-->

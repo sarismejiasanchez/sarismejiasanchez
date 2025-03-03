@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython)<br>
-2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/sarismejiasanchez](https://github.com/sarismejiasanchez/sarismejiasanchez)<br>
-3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-4. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
-5. 🎉 Merged PR [#9](https://github.com/sarismejiasanchez/Curso-Git-GitHub/pull/9) in [sarismejiasanchez/Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)<br>
+1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python_Programming](https://github.com/sarismejiasanchez/Python_Programming)<br>
+5. 📔 Created new repository [sarismejiasanchez/Python_Programming](https://github.com/sarismejiasanchez/Python_Programming)<br>
 <!--RECENT_ACTIVITY:end-->

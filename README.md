@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
 2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
 3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
-4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python_Programming](https://github.com/sarismejiasanchez/Python_Programming)<br>
-5. 📔 Created new repository [sarismejiasanchez/Python_Programming](https://github.com/sarismejiasanchez/Python_Programming)<br>
+4. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+5. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
 <!--RECENT_ACTIVITY:end-->

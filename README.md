@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opensaludlab/ciencia_datos](https://github.com/opensaludlab/ciencia_datos)<br>
-2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
-3. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
-4. ⭐ Starred [mouredev/hello-java](https://github.com/mouredev/hello-java)<br>
-5. ⬆️ Pushed 4 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+2. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+3. ⭐ Starred [opensaludlab/ciencia_datos](https://github.com/opensaludlab/ciencia_datos)<br>
+4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)<br>
+5. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
 <!--RECENT_ACTIVITY:end-->

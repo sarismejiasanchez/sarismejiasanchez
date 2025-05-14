@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
-4. ⬆️ Pushed 2 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
+4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 5. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 <!--RECENT_ACTIVITY:end-->

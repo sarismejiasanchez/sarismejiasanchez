@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
+1. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
 2. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 3. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 4. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>

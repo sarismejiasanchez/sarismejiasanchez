@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kylegallatin/ml-python-cookbook-runner](https://github.com/kylegallatin/ml-python-cookbook-runner)<br>
-2. ⭐ Starred [migueltoro/pyhton_v1](https://github.com/migueltoro/pyhton_v1)<br>
-3. ⭐ Starred [DragonJAR/n8n-workflows-es](https://github.com/DragonJAR/n8n-workflows-es)<br>
-4. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
-5. ⬆️ Pushed 1 commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
+1. ⭐ Starred [marcorichetta/google-swe-book](https://github.com/marcorichetta/google-swe-book)<br>
+2. ⭐ Starred [kylegallatin/ml-python-cookbook-runner](https://github.com/kylegallatin/ml-python-cookbook-runner)<br>
+3. ⭐ Starred [migueltoro/pyhton_v1](https://github.com/migueltoro/pyhton_v1)<br>
+4. ⭐ Starred [DragonJAR/n8n-workflows-es](https://github.com/DragonJAR/n8n-workflows-es)<br>
+5. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
 <!--RECENT_ACTIVITY:end-->

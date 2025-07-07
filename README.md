@@ -60,5 +60,4 @@ Here are some ideas to get you started:
 1. ⭐ Starred [marcorichetta/google-swe-book](https://github.com/marcorichetta/google-swe-book)<br>
 2. ⭐ Starred [kylegallatin/ml-python-cookbook-runner](https://github.com/kylegallatin/ml-python-cookbook-runner)<br>
 3. ⭐ Starred [migueltoro/pyhton_v1](https://github.com/migueltoro/pyhton_v1)<br>
-4. ⭐ Starred [DragonJAR/n8n-workflows-es](https://github.com/DragonJAR/n8n-workflows-es)<br>
 <!--RECENT_ACTIVITY:end-->

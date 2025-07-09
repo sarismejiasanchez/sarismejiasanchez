@@ -58,6 +58,4 @@ Here are some ideas to get you started:
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [marcorichetta/google-swe-book](https://github.com/marcorichetta/google-swe-book)<br>
-2. ⭐ Starred [kylegallatin/ml-python-cookbook-runner](https://github.com/kylegallatin/ml-python-cookbook-runner)<br>
-3. ⭐ Starred [migueltoro/pyhton_v1](https://github.com/migueltoro/pyhton_v1)<br>
 <!--RECENT_ACTIVITY:end-->

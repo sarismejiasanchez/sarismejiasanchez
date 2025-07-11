@@ -57,5 +57,4 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marcorichetta/google-swe-book](https://github.com/marcorichetta/google-swe-book)<br>
 <!--RECENT_ACTIVITY:end-->

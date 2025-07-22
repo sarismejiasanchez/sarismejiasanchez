@@ -57,5 +57,7 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
+1. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
+2. ⭐ Starred [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)<br>
+3. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
 <!--RECENT_ACTIVITY:end-->

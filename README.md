@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Saguirre9911/asistente_gastos](https://github.com/Saguirre9911/asistente_gastos)<br>
-2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-3. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Langraph-Agents](https://github.com/sarismejiasanchez/Langraph-Agents)<br>
-4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
+1. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)<br>
+2. ⭐ Starred [Saguirre9911/asistente_gastos](https://github.com/Saguirre9911/asistente_gastos)<br>
+3. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Langraph-Agents](https://github.com/sarismejiasanchez/Langraph-Agents)<br>
 5. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 <!--RECENT_ACTIVITY:end-->

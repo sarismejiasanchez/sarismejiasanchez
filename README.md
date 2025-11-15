@@ -61,5 +61,4 @@ Here are some ideas to get you started:
 2. ⭐ Starred [Saguirre9911/asistente_gastos](https://github.com/Saguirre9911/asistente_gastos)<br>
 3. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
 4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Langraph-Agents](https://github.com/sarismejiasanchez/Langraph-Agents)<br>
-5. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Curso-Python](https://github.com/sarismejiasanchez/Curso-Python)<br>
 <!--RECENT_ACTIVITY:end-->

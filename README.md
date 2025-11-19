@@ -60,5 +60,4 @@ Here are some ideas to get you started:
 1. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)<br>
 2. ⭐ Starred [Saguirre9911/asistente_gastos](https://github.com/Saguirre9911/asistente_gastos)<br>
 3. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Langraph-Agents](https://github.com/sarismejiasanchez/Langraph-Agents)<br>
 <!--RECENT_ACTIVITY:end-->

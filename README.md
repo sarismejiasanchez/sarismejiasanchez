@@ -59,6 +59,4 @@ Here are some ideas to get you started:
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [facundobatista/libro-pyciencia](https://github.com/facundobatista/libro-pyciencia)<br>
 2. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)<br>
-3. ⭐ Starred [Saguirre9911/asistente_gastos](https://github.com/Saguirre9911/asistente_gastos)<br>
-4. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
 <!--RECENT_ACTIVITY:end-->

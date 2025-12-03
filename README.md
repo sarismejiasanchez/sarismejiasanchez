@@ -58,5 +58,4 @@ Here are some ideas to get you started:
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [facundobatista/libro-pyciencia](https://github.com/facundobatista/libro-pyciencia)<br>
-2. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)<br>
 <!--RECENT_ACTIVITY:end-->

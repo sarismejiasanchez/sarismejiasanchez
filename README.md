@@ -57,5 +57,6 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facundobatista/libro-pyciencia](https://github.com/facundobatista/libro-pyciencia)<br>
+1. ⭐ Starred [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)<br>
+2. ⭐ Starred [facundobatista/libro-pyciencia](https://github.com/facundobatista/libro-pyciencia)<br>
 <!--RECENT_ACTIVITY:end-->

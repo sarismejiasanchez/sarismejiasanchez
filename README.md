@@ -61,5 +61,4 @@ Here are some ideas to get you started:
 2. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 3. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-5. ⭐ Starred [sarwarbeing-ai/Agentic_Design_Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)<br>
 <!--RECENT_ACTIVITY:end-->

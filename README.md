@@ -57,5 +57,6 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
+1. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/chos-calculator](https://github.com/sarismejiasanchez/chos-calculator)<br>
+2. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 <!--RECENT_ACTIVITY:end-->

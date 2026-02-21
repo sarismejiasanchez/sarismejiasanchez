@@ -60,5 +60,4 @@ Here are some ideas to get you started:
 1. ⭐ Starred [ondrej1024/carelink-python-client](https://github.com/ondrej1024/carelink-python-client)<br>
 2. ⭐ Starred [ondrej1024/m5-minimed-monitor](https://github.com/ondrej1024/m5-minimed-monitor)<br>
 3. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/chos-calculator](https://github.com/sarismejiasanchez/chos-calculator)<br>
-4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 <!--RECENT_ACTIVITY:end-->

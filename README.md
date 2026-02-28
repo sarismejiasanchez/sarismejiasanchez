@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ondrej1024/carelink-python-client](https://github.com/ondrej1024/carelink-python-client)<br>
-2. ⭐ Starred [ondrej1024/m5-minimed-monitor](https://github.com/ondrej1024/m5-minimed-monitor)<br>
-3. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/chos-calculator](https://github.com/sarismejiasanchez/chos-calculator)<br>
+1. ⭐ Starred [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython)<br>
+2. ⭐ Starred [ondrej1024/carelink-python-client](https://github.com/ondrej1024/carelink-python-client)<br>
+3. ⭐ Starred [ondrej1024/m5-minimed-monitor](https://github.com/ondrej1024/m5-minimed-monitor)<br>
+4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/chos-calculator](https://github.com/sarismejiasanchez/chos-calculator)<br>
 <!--RECENT_ACTIVITY:end-->

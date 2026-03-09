@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 1. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 2. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 3. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-4. ⭐ Starred [AllenDowney/ThinkPython](https://github.com/AllenDowney/ThinkPython)<br>
-5. ⭐ Starred [ondrej1024/carelink-python-client](https://github.com/ondrej1024/carelink-python-client)<br>
+4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
+5. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
 <!--RECENT_ACTIVITY:end-->

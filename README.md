@@ -5,8 +5,7 @@
 # Hi, I’m Sara Mejía Sánchez 👋  
 ### Backend · DevOps · Python
 
-**I build reliable backend systems and automate delivery.**  
-**Construyo sistemas backend robustos y automatizo el ciclo de entrega.**
+**I build reliable backend systems and automate delivery.**
 
 <p>
   <a href="https://www.linkedin.com/in/sarismejiasanchez/" target="_blank">
@@ -33,47 +32,39 @@
 
 ---
 
-## About / Sobre mí
+## About
 
-**EN:** Backend & DevOps-minded engineer focused on clean architecture, automation, and measurable reliability.  
-**ES:** Ingeniera con enfoque Backend y DevOps: arquitectura limpia, automatización y fiabilidad medible.
+Backend & DevOps-minded engineer focused on clean architecture, automation, and measurable reliability.
 
-- **Now / Ahora:** building and learning in **Python**, backend patterns, and delivery automation.
-- **Interested in / Intereses:** APIs, CI/CD, containers, infrastructure as code, observability, data workflows.
-- **Open to / Abierta a:** collaboration on backend tooling, DevOps practices, and Python projects.
+- **Currently:** building and learning in **Python**, backend patterns, and delivery automation.
+- **Interested in:** APIs, CI/CD, containers, infrastructure as code, observability, data workflows.
+- **Open to:** collaboration on backend tooling, DevOps practices, and Python projects.
 
 ---
 
-## Featured projects / Proyectos destacados
-
-> EN: A portfolio-style selection of projects focused on Python, automation, and practical learning.
-> ES: Una selección tipo portfolio de proyectos centrados en Python, automatización y aprendizaje práctico.
+## Featured projects
 
 - **[VoiceTranslator](https://github.com/sarismejiasanchez/VoiceTranslator)**  
-  **EN:** AI-powered voice translator (Spanish → EN/FR/IT/PT) built with Gradio + Whisper + translation + ElevenLabs.  
-  **ES:** Traductor de voz con IA (Español → EN/FR/IT/PT) con Gradio + Whisper + traducción + ElevenLabs.  
+  AI-powered voice translator (Spanish → EN/FR/IT/PT) built with Gradio + Whisper + translation + ElevenLabs.  
   ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
   ![License](https://img.shields.io/badge/License-Apache--2.0-1f2937?style=flat-square)
 
 - **[Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)**  
-  **EN:** Fundamentals reference with focused examples (operators, conditionals, types, loops, strings, etc.).  
-  **ES:** Referencia de fundamentos con ejemplos focalizados (operadores, condicionales, tipos, bucles, strings, etc.).  
+  Fundamentals reference with focused examples (operators, control flow, data types, loops, strings, etc.).  
   ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
 
 - **[Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)**  
-  **EN:** Structured Python course: syntax, modules, OOP, control flow, and unit testing.
-  **ES:** Curso estructurado de Python: sintaxis, módulos, POO, control de flujo y pruebas unitarias.
+  Structured Python course notes and exercises covering syntax, modules, OOP, control flow, and unit testing.  
   ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
 
 - **[Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)**  
-  **EN:** Notes and practice repo for Git/GitHub workflows (branching, merging, fetch, etc.).  
-  **ES:** Repo de práctica y apuntes para flujos de trabajo con Git/GitHub (ramas, merges, fetch, etc.).
+  Notes and practice repo for Git/GitHub workflows (branching, merging, fetch, etc.).  
   ![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Tech stack / Tecnologías
+## Tech stack
 
 **Backend**
 - Python · REST APIs · Testing (pytest) · SQL
@@ -115,7 +106,7 @@
 
 ---
 
-## Contact / Contacto
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/sarismejiasanchez/
 - Kaggle: https://www.kaggle.com/sarismejiasanchez

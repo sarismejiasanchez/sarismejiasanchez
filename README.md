@@ -1,65 +1,121 @@
-<!--
-**sarismejiasanchez/sarismejiasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Sara Mejía</h1>
-<h3 align="center">I'm a Applied Programming Specialist</h3>
-
-###
+<!-- Profile README for @sarismejiasanchez -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarismejiasanchez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+# Hi, I’m Sara Mejía Sánchez 👋  
+### Backend · DevOps · Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sarismejiasanch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarismejiasanch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarismejiasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarismejiasanchez" height="30" width="40" /></a>
-<a href="https://kaggle.com/sarismejiasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarismejiasanchez" height="30" width="40" /></a>
-<a href="https://discord.gg/sarismejiasanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sarismejiasanchez" height="30" width="40" /></a>
+**I build reliable backend systems and automate delivery.**  
+**Construyo sistemas backend robustos y automatizo el ciclo de entrega.**
+
+<p>
+  <a href="https://www.linkedin.com/in/sarismejiasanchez/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sarismejiasanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/sarismejiasanch" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-@sarismejiasanch-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/sarismejiasanchez" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-sarismejiasanchez-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
-###
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b" />
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-1f2937?style=flat-square" />
+  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-1f2937?style=flat-square" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgymDRzp6hB8Gbt9F9lrrEtrkwnFaqNcZ8olBtEJEKqghQDiK6qf5o5Bo3RHdknS0EpLuOeAMj98lzANRcu65-Ej8k04Ic2jmpKw-K38SFoLm6hrseg_Wxy3Q55tDp9DJQqmK0CmEIr2oI/w640-h354/Oracle-plSql.jpg" alt="plsql" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Learning... 🤓</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+---
 
-### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-2. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-3. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-4. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-5. ⬆️ Pushed undefined commit(s) to [sarismejiasanchez/Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)<br>
-<!--RECENT_ACTIVITY:end-->
+## About / Sobre mí
+
+**EN:** Backend & DevOps-minded engineer focused on clean architecture, automation, and measurable reliability.  
+**ES:** Ingeniera con enfoque Backend y DevOps: arquitectura limpia, automatización y fiabilidad medible.
+
+- **Now / Ahora:** building and learning in **Python**, backend patterns, and delivery automation.
+- **Interested in / Intereses:** APIs, CI/CD, containers, infrastructure as code, observability, data workflows.
+- **Open to / Abierta a:** collaboration on backend tooling, DevOps practices, and Python projects.
+
+---
+
+## Featured projects / Proyectos destacados
+
+> EN: A portfolio-style selection of projects focused on Python, automation, and practical learning.
+> ES: Una selección tipo portfolio de proyectos centrados en Python, automatización y aprendizaje práctico.
+
+- **[VoiceTranslator](https://github.com/sarismejiasanchez/VoiceTranslator)**  
+  **EN:** AI-powered voice translator (Spanish → EN/FR/IT/PT) built with Gradio + Whisper + translation + ElevenLabs.  
+  **ES:** Traductor de voz con IA (Español → EN/FR/IT/PT) con Gradio + Whisper + traducción + ElevenLabs.  
+  ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
+  ![License](https://img.shields.io/badge/License-Apache--2.0-1f2937?style=flat-square)
+
+- **[Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)**  
+  **EN:** Fundamentals reference with focused examples (operators, conditionals, types, loops, strings, etc.).  
+  **ES:** Referencia de fundamentos con ejemplos focalizados (operadores, condicionales, tipos, bucles, strings, etc.).  
+  ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
+
+- **[Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)**  
+  **EN:** Structured Python course: syntax, modules, OOP, control flow, and unit testing.
+  **ES:** Curso estructurado de Python: sintaxis, módulos, POO, control de flujo y pruebas unitarias.
+  ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
+
+- **[Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)**  
+  **EN:** Notes and practice repo for Git/GitHub workflows (branching, merging, fetch, etc.).  
+  **ES:** Repo de práctica y apuntes para flujos de trabajo con Git/GitHub (ramas, merges, fetch, etc.).
+  ![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Tech stack / Tecnologías
+
+**Backend**
+- Python · REST APIs · Testing (pytest) · SQL
+
+**DevOps**
+- CI/CD · Docker · Linux · GitHub Actions
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=default&hide_border=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarismejiasanchez&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarismejiasanchez&layout=compact&langs_count=8&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarismejiasanchez&layout=compact&langs_count=8&theme=default&hide_border=true" />
+</picture>
+
+</div>
+
+---
+
+## Contact / Contacto
+
+- LinkedIn: https://www.linkedin.com/in/sarismejiasanchez/
+- Kaggle: https://www.kaggle.com/sarismejiasanchez

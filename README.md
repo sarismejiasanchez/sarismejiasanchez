@@ -38,7 +38,6 @@ open_to = "colaboraciones y nuevos retos"
 | Proyecto | Qué encontrarás |
 | :-- | :-- |
 | [🎙️ VoiceTranslator](https://github.com/sarismejiasanchez/VoiceTranslator) | Traductor de voz con IA a varios idiomas, construido con Gradio, Whisper, servicios de traducción y ElevenLabs. |
-| [🩺 CHOS Calculator](https://github.com/sarismejiasanchez/chos-calculator) | Calculadora web de carbohidratos de código abierto para el manejo personal de diabetes tipo 1. |
 | [🐍 Python Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals) | Guía práctica de fundamentos de Python con ejemplos claros y enfocados. |
 | [🤖 LangGraph Agents](https://github.com/sarismejiasanchez/Langraph-Agents) | Exploraciones y experimentos con agentes basados en LLM. |
 
@@ -47,6 +46,10 @@ open_to = "colaboraciones y nuevos retos"
     <img alt="Explorar todos los repositorios" src="https://img.shields.io/badge/Explorar_todos_los_repositorios_→-181717?style=for-the-badge" />
   </a>
 </div>
+
+## Aprendizaje y práctica
+
+- [Python Programming](https://github.com/sarismejiasanchez/Python-Programming): ejercicios y notas que documentan mi progreso en sintaxis, estructuras de datos, POO, algoritmos y pruebas.
 
 ## Caja de herramientas
 
@@ -59,10 +62,15 @@ open_to = "colaboraciones y nuevos retos"
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## Actividad reciente
+## Contribuciones
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarismejiasanchez/sarismejiasanchez/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarismejiasanchez/sarismejiasanchez/output/github-contribution-grid-snake.svg" />
+    <img alt="Animación del gráfico de contribuciones de Sara en GitHub" src="https://raw.githubusercontent.com/sarismejiasanchez/sarismejiasanchez/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 

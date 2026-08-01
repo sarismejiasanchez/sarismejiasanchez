@@ -2,111 +2,73 @@
 
 <div align="center">
 
-# Hi, I’m Sara Mejía Sánchez 👋  
-### Backend · DevOps · Python
+# ¡Hola! Soy Sara Mejía Sánchez 👋
 
-**I build reliable backend systems and automate delivery.**
+### Backend developer · Python · DevOps
 
 <p>
-  <a href="https://www.linkedin.com/in/sarismejiasanchez/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sarismejiasanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/sarismejiasanch" target="_blank">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-@sarismejiasanch-111111?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/sarismejiasanchez" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-sarismejiasanchez-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+  Construyo productos útiles, automatizo procesos y convierto ideas en sistemas confiables.
 </p>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b" />
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-1f2937?style=flat-square" />
-  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-1f2937?style=flat-square" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sarismejiasanchez/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sarismejiasanchez?tab=repositories">
+    <img alt="Proyectos" src="https://img.shields.io/badge/GitHub-Ver_proyectos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## About
+## Sobre mí
 
-Backend & DevOps-minded engineer focused on clean architecture, automation, and measurable reliability.
+Soy una desarrolladora enfocada en **backend, automatización y buenas prácticas de entrega**. Me gusta trabajar en proyectos donde el código resuelve una necesidad concreta, desde una API sencilla hasta una herramienta que facilita el día a día.
 
-- **Currently:** building and learning in **Python**, backend patterns, and delivery automation.
-- **Interested in:** APIs, CI/CD, containers, infrastructure as code, observability, data workflows.
-- **Open to:** collaboration on backend tooling, DevOps practices, and Python projects.
+```python
+focus = ["Python", "APIs", "testing", "CI/CD", "Docker"]
+currently_building = "herramientas útiles y experiencias de aprendizaje"
+open_to = "colaboraciones y nuevos retos"
+```
 
----
+## Proyectos destacados
 
-## Featured projects
-
-- **[VoiceTranslator](https://github.com/sarismejiasanchez/VoiceTranslator)**  
-  AI-powered voice translator (Spanish → EN/FR/IT/PT) built with Gradio + Whisper + translation + ElevenLabs.  
-  ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
-  ![License](https://img.shields.io/badge/License-Apache--2.0-1f2937?style=flat-square)
-
-- **[Python-Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals)**  
-  Fundamentals reference with focused examples (operators, control flow, data types, loops, strings, etc.).  
-  ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
-
-- **[Python-Programming](https://github.com/sarismejiasanchez/Python-Programming)**  
-  Structured Python course notes and exercises covering syntax, modules, OOP, control flow, and unit testing.  
-  ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=ffd43b)
-
-- **[Curso-Git-GitHub](https://github.com/sarismejiasanchez/Curso-Git-GitHub)**  
-  Notes and practice repo for Git/GitHub workflows (branching, merging, fetch, etc.).  
-  ![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white)
-
----
-
-## Tech stack
-
-**Backend**
-- Python · REST APIs · Testing (pytest) · SQL
-
-**DevOps**
-- CI/CD · Docker · Linux · GitHub Actions
-
----
-
-## GitHub stats
+| Proyecto | Qué encontrarás |
+| :-- | :-- |
+| [🎙️ VoiceTranslator](https://github.com/sarismejiasanchez/VoiceTranslator) | Traductor de voz con IA a varios idiomas, construido con Gradio, Whisper, servicios de traducción y ElevenLabs. |
+| [🩺 CHOS Calculator](https://github.com/sarismejiasanchez/chos-calculator) | Calculadora web de carbohidratos de código abierto para el manejo personal de diabetes tipo 1. |
+| [🐍 Python Fundamentals](https://github.com/sarismejiasanchez/Python-Fundamentals) | Guía práctica de fundamentos de Python con ejemplos claros y enfocados. |
+| [🤖 LangGraph Agents](https://github.com/sarismejiasanchez/Langraph-Agents) | Exploraciones y experimentos con agentes basados en LLM. |
 
 <div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sarismejiasanchez&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=default&hide_border=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarismejiasanchez&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sarismejiasanchez&layout=compact&langs_count=8&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarismejiasanchez&layout=compact&langs_count=8&theme=default&hide_border=true" />
-</picture>
-
+  <a href="https://github.com/sarismejiasanchez?tab=repositories">
+    <img alt="Explorar todos los repositorios" src="https://img.shields.io/badge/Explorar_todos_los_repositorios_→-181717?style=for-the-badge" />
+  </a>
 </div>
+
+## Caja de herramientas
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+## Actividad reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>La actividad se actualiza automáticamente. Las métricas externas se han retirado para evitar paneles rotos o datos incompletos.</sub>
 
 ---
 
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/sarismejiasanchez/
-- Kaggle: https://www.kaggle.com/sarismejiasanchez
+<div align="center">
+  <i>¿Tienes una idea, una oportunidad o un proyecto interesante? Hablemos.</i><br />
+  <a href="https://www.linkedin.com/in/sarismejiasanchez/">LinkedIn</a> · <a href="https://github.com/sarismejiasanchez">GitHub</a>
+</div>

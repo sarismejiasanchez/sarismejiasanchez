@@ -64,8 +64,6 @@ open_to = "colaboraciones y nuevos retos"
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<sub>La actividad se actualiza automáticamente. Las métricas externas se han retirado para evitar paneles rotos o datos incompletos.</sub>
-
 ---
 
 <div align="center">
